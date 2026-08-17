@@ -4,6 +4,10 @@ Welcome to the **Absenteeism-Dept-ML-Journey** project, where I explore predicti
 
 This project aims to improve workforce planning and resource allocation through data-driven insights. 🚀
 
+> **Historical status:** This repository preserves an earlier learning exploration. It is not a
+> maintained production system, and the confidential source data required to rerun the notebooks
+> is intentionally not included.
+
 ---
 
 ## 🚀 Project Overview
